@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087298080080",
+    "project_id": "rest-api-67a60",
+    "storage_bucket": "rest-api-67a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087298080080:android:583d38acd4f1291d7ff055",
+        "android_client_info": {
+          "package_name": "com.example.lab1_ph37315"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWA2SZ0sI6e3NMBiNA0B8caz8ydR7VrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
